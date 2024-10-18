@@ -1,0 +1,15 @@
+.venv/
+fig/
+fig_labeled/
+__pycache__/
+# *.png
+# *.svg
+# *.eps
+test.csv
+result.bin
+algorithm_test.py
+result/
+origin/
+origin_labeled/
+exp_result/
+*_try.py
